@@ -17,7 +17,6 @@ While CNNs rely on strong local inductive biases (translations, local receptive 
 - `error_analysis.py`: Evaluates the fully trained CNN and ViT on the test set, generating comparative confusion matrices.
 - `eda_and_augmentation.py`: Automates Exploratory Data Analysis (EDA) and saves plots for class distributions, pixel variances, and data augmentation comparisons.
 - `visualize_models.py`: Trains lightweight versions of both models to extract and visualize CNN convolutional filters (edges) and ViT self-attention grids.
-- `model.ipynb` / `Transformer_attempt.ipynb`: Jupyter notebooks preserving the standalone pipeline implementations of `ASLResNet` and `SignLanguageViT`.
 
 ## ⚙️ Installation & Requirements
 
